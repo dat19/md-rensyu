@@ -73,3 +73,35 @@ hello. hello. *hello. hello.* hello. hello. _hello. hello._ hello. hello. **hell
 - [ドットインストール](https://dotinstall.com "動画学習サイト")
 - [区切り線](https://github.com/dat19/md-rensyu#区切り線)
   - 作成したGitHubのマークダウンの見出しにカーソルを合わせて、左のリンクアイコンを右クリックして、**リンクのコピー**で、その項目を直接開くリンクが得られる
+
+# コード
+
+- バッククォートは、[Shift]+[@]キー
+- バッククォート3つの後ろに、言語を指定できる
+  - csならC#
+  - cならc言語
+  - java
+  - html
+- スペースがなければ戻る
+  - インデント
+    - インデント
+      - インデント
+
+1. インデント
+  1. インデント
+  1. インデント
+1. インデント
+
+```cs
+function x() {
+  Debug.Log("hello.");
+}
+```
+
+- インラインは、バッククォート1つで囲う。`Debug.Log()`はデバッグ表示
+
+# 画像
+
+![画像](figure_barrier_plate.png "from いらすとや")
+
+[![画像](figure_barrier_plate.png "from いらすとや")](https://www.irasutoya.com/)
