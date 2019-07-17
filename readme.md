@@ -105,3 +105,10 @@ function x() {
 ![画像](figure_barrier_plate.png "from いらすとや")
 
 [![画像](figure_barrier_plate.png "from いらすとや")](https://www.irasutoya.com/)
+
+# テーブル
+
+|列見出し1|列見出し2|列見出し3|
+|:---|:---:|---:|
+|左揃え|中央揃え|右揃え|
+|0|data|data|
