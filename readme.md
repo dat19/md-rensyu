@@ -42,5 +42,20 @@ ___
 ###### 見出し6
 
 - item1
+
+    hello. hello.
+hello. hello. hello. hello.
+hello. hello. hello. hello. hello.
+hello. 
+hello. hello. hello. hello.
+hello.
+
+
 - item2
 - item3
+
+
+# 強調
+hello. hello. *hello. hello.* hello. hello. _hello. hello._ hello. hello. **hello. hello.** hello. hello. __hello. hello.__ hello. hello.
+
+*日本語は斜体にならないことが多い*
